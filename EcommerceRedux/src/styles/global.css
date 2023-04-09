@@ -1,0 +1,12 @@
+.no-products{
+    display:flex;
+    justify-content: center;
+    margin :  100px auto ;  
+    font-weight:600;
+}
+
+.cart-container{
+    display:flex;
+    justify-content: center;
+    margin-top: 50px;
+}
